@@ -1,0 +1,13 @@
+CustomJoins:
+    owner:
+        isOP: true
+        Permission: ''
+        SpawnFirewors: true
+        JoinMessage: '&cOwner %player% &7Join the Lobby'
+        QuitMessage: '&cOwner %player% &7Quit the Lobby'
+    admin:
+        isOP: false
+        Permission: 'squad.admin'
+        SpawnFirewors: false
+        JoinMessage: '&6Admin %player% &7Join the Lobby'
+        QuitMessage: '&6Admin %player% &7Quit the Lobby'

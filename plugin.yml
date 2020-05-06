@@ -1,0 +1,62 @@
+name: SquadCore
+author: AndresZlp15
+version: 1.0
+main: Main.Main
+description: Plugin Lobby Core for SquadCraft
+softpend: [PlaceholderAPI, Vault]
+commands:
+    msg:
+        description: Private Message a player
+        aliases: [w, whisper, tell, message, pm, pn, m]
+    reply:
+        description: Reply to a private message
+        aliases: [r, rep, rply]
+    blockmsg:
+        description: Disable private messaging
+        aliases: [blocktell, blockwhisper, blockpm, bmsg, togglepm, togglemsg]
+    socialspy:
+        description: Spy on private messages
+        aliases: [spy]
+    setspawn:
+        description: setea el Spawn
+        usage: /setspawn
+    spawn:
+        description: Te lleva al Spawn
+        usage: /spawn
+    chat:
+        description: Mutea el chat y lo desmutea
+        usage: /<command>
+    cc:
+        description: Clear chat
+        usage: /cc
+        aliases: [clearchat]
+    buildadd:
+        usage: /<command>
+        description: agrega un builder
+        aliases: [badd]
+    buildremove:
+        usage: /<command>
+        description: quita a un builder
+        aliases: [bremove]
+    gamemode:
+        usage: /<command>
+        description: cambia tu modo de juego
+    gm:
+        usage: /<command>
+        description: cambia tu modo de juego xd
+    voidspawn:
+        usage: /<command>
+        description: Void Spawn
+    fly:
+        usage: /<command>
+        description: activa el fly y lo desactiva
+    vanish:
+        usage: /<command>
+        description: comando para staff
+        aliases: [v, vs]
+    voidspawn:
+        usage: /<command>
+        description: comando para setear el voidspawn
+    squadreload:
+        usage: /squadreload
+        

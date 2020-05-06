@@ -1,0 +1,38 @@
+#######################
+#     JoinItems       #
+#   By AndresZlp15   #
+#######################
+test-item1:
+    ID: 276
+    Data-value: 0
+    Allow-drop: false
+    cooldown-seconds: 5
+    Name: '&c&lGamemode Creative'
+    #Use "console:" To execute commands from Console.
+    #Use "server:" To send the player to a server (Example: "server: skywars").
+    Command: 'gm 1'
+    Lore:
+        - '&7Change Your Gamemode to Creative'
+    #Use: 1-2-3-4-5-6-7-8-9 :D
+    Slot: 1
+test-item2:
+    ID: 267
+    Data-value: 0
+    Allow-drop: false
+    cooldown-seconds: 5
+    Name: '&b&lGamemode Survival'
+    Command: 'gm 0'
+    Lore:
+        - '&7Change Your Gamemode to Survival'
+    Slot: 5
+test-item3:
+    ID: 268
+    Data-value: 0
+    Allow-drop: false
+    cooldown-seconds: 5
+    Name: '&b&lGamemode Spectator'
+    Command: 'gm 3'
+    Lore:
+        - '&7Change Your Gamemode to Spectator'
+    Slot: 9
+# More...

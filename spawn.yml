@@ -1,0 +1,10 @@
+JoinSpawn: true
+SetSpawnMsj: '&c&lSpawn Set'
+EntrySpawn: '&b&lTeleporting'
+Spawn:
+  x: 00
+  y: 00
+  z: 00
+  world: null
+  yaw: 00
+  pitch: 00

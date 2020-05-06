@@ -1,0 +1,26 @@
+disabledWorlds:
+    - mundo1
+    - mundo2
+# Time in seconds
+Time-Update: 1
+# Set scoreboards title. NOTE: Maximum 16 caracters!
+Title: '&6&lSquadCore'
+# Here write at least 1 line for the scoreboard. NOTE: Maximum 42 characters per line AND maximum 15 lines!
+scoreboard-lines:
+    - '&7&l&m->&r&a&lBienvenido:'
+    - '&c%player%'
+    - '%empty%'
+    - '&7&l&m->&r&a&lInfo:'
+    - ' &7Rango: &b%group%'
+    - ' &7Online:'
+    - ' &7Ping: &b%player_ping%'
+    - '&7Lobby: &f#1'
+    - '%empty%'
+    - '&6play.Squadcraft.tech'
+
+#Variables:
+#  %player% - Show the name of the Player
+#  %player-displayname% - Show the display name of the player
+#  %group% - shows the Player's range // only with Vault
+#  %empty% - empty line
+# This plugin PlaceHolderAPI and MVdWPlaceholderAPI support!

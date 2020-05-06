@@ -1,0 +1,8 @@
+# This option can be activated or deactivated according to your convenience
+Use-Tablist: true
+# Time in seconds
+Time-Update: 2
+
+Header: "\n       &7&m]--------------------&r &6[&b&lLSquadcraft&6] &7&m--------------------[&7\n\n&8>> &7Bienvenido &a%player% &7a la Network! &8<<\n&8>> &7OnlinePlayers &2%online-players%&8/&2%max-online% &8<<\n"
+
+Footer: "\n&8>> &2IP del Servidor &8>> &7play.squacraft.tech &8<<\n\n      &7&m]--------------------&r &6[&b&lSquadcraft&6] &7&m--------------------[&7\n"

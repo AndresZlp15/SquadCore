@@ -1,0 +1,42 @@
+#Messages Others
+No-Permissions: '&6SquadCore&8>> &7You don''t have permissions &8(&c!&8)'
+UnknownCommand: '&6SquadCore&8>> &7Unknown &bcommand'
+Whitelist: '&6SquadCore&8>> &7Your are not in whitelist the this server!'
+ServerFull: '&6SquadCore&8>> &7This server is full'
+VanishActive: '&6SquadCore&8>> &7Vanish Actived!'
+VanishDesactive: '&6SquadCore&8>> &7Vanish desactived'
+NotOnline: ''
+GameModeChanged: '&6SquadCore&8>> &7Your gamemode has been changed to &6%gamemode%&2!'
+GameModeNull: '&6SquadCore&8>> &cValue does not exist'
+GameModeChangedOther: '&6%player% &agamemode has been changed to &6%gamemode%&a!'
+BuildMode:
+    Enable: '&6SquadCore&8>> &7The Builder Mode is activated to the player &3&l%player%'
+    Disable: '&6SquadCore&8>> &cPlayer %player% Builder Mode has been Disabled'
+
+Messages:
+    FlyActived: '&6SquadCore&8>> &2Flying enabled'
+    FlyDesactived: '&6SquadCore&8>> &cFlying disabled'
+
+# Chat System
+ChatEnable: '&6SquadCore&8>> &2The Chat is Enable'
+ChatDisable: '&6SquadCore&8>> &4The Chat is disable'
+ChatClear: '&6SquadCore&8>> &cChat cleared by %player%'
+
+#System MSG
+AntiSpam: '&cWait 5 seconds!'
+Msg:
+    meTo: "&6[&9Tu&6->&c%displayname%&6] &f%message%"
+    toMe: "&6[&9%displayname%&6->&cTu&6] &f%message%"
+    mayNotSendLinks: "&cIt is not allowed to send links by private message."
+    usage: "&c/%label% <Jugador> <Mensaje>"
+    reply:
+        usage: "&c/%label% <Message>"
+        noMessageSent: "&cYou have no one to answer."
+    blockmsg:
+        activated: "&cNow you can not receive Messages!"
+        deactivated: "&aNow you can receive Messages!"
+    socialspy:
+        on: "&aSocial-Spy is Enable!"
+        off: "&cSocial-Spy is Disable!"
+        msg: "&7[&6&lSS&7]&6[&c%player1%&6->%c%player2%&6] &f%message%"
+    blockingMessages: "&c%displayname% have the messages Blocked!"

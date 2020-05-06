@@ -1,0 +1,49 @@
+# SquadCore v1.1 By: AndresZlp15
+
+#Time in seconds
+AntiSpam: 5
+  
+#Your serverip %server_ip%
+ServerIP: play.squadcraft.tech
+#Your servername %server_name%
+ServerName: 'Squadcraft NetWork'
+
+##
+#-----Plugin Settings-----#
+##
+
+#Permssions
+ServerFullPermissions: 'squad.founder'
+#Booleans
+Join-Items: true
+CustomJoins: true
+JoinMotdEnable: true
+EnableJoinTitle: true
+BuilderModeRequired: false
+#Types: ADVENTURE, CREATIVE, SURVIVAL
+JoinGameMode: ADVENTURE
+VoidSpawn: true
+#false = Deny
+#true = allow
+Allow-Damage-all: false
+
+#FlyPerms latin.fly
+JoinFly: true
+
+########################################################################      
+#JoinMotd
+JoinMotd:
+- ''
+- ''
+- '&7&m----------------------------------------------'
+- ''
+- '     &6&lBienvenido &c%player% &6&la la network'
+- ''
+- '&7&m----------------------------------------------'
+- ''
+- ''
+########################################################################   
+#CustomJoin title for subtitle
+JoinTitle: '&bBienvenido %player%'
+SubTitle: '%server_name%'
+########################################################################    
